@@ -1,2 +1,2 @@
 # Git_practise
-I am using this Repo to start my git journey.
+I am editing the README file. Adding some more details about the project description.
